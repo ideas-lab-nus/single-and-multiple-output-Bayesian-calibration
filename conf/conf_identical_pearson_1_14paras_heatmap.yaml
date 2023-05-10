@@ -1,0 +1,13 @@
+yc_keys: ['Electricity:Facility']
+vc_keys: []
+zone_keys: []
+xc_keys: ['Site Outdoor Air Drybulb Temperature','Site Outdoor Air Relative Humidity',
+          'Site Direct Solar Radiation Rate per Area']
+
+tc_keys: ['tc1','tc2','tc3','tc4','tc5', 'tc6','tc7',
+          'tc8','tc9','tc10','tc11','tc12','tc13','tc14']
+
+zone_areas: [3563.11, 2532.32, 2532.32, 2532.32, 3563.11, 3563.11, 313.42, 201.98, 313.41, 201.98, 313.42, 201.98, 313.41, 201.98, 313.42, 201.98, 313.41, 201.98, 3563.11]
+  
+
+

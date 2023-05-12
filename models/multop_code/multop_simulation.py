@@ -1,3 +1,15 @@
+"""
+Multiple-output Bayesian calibration for energy modelling
+"""
+__author__ = "Yaonan Gu, Chao Song"
+__copyright__ = "Copyright 2023, National University of Singapore - NUS"
+__credits__ = [""]
+__license__ = "To be added"
+__version__ = "3"
+__maintainer__ = "Yaonan Gu, Chao Song"
+__email__ = "yaonangu@u.nus.edu, nussongchao@gmail.com"
+__status__ = "Experimental/Beta"
+
 import numpy as np
 np.random.seed(206)
 

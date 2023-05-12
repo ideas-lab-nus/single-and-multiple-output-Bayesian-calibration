@@ -1,5 +1,5 @@
 """
-Code for generating data for single-output and multiple-output Bayesian calibration
+Code for generating data for monthly single-output and multiple-output Bayesian calibration
 """
 __author__ = "Yaonan Gu, Chao Song"
 __copyright__ = "Copyright 2023, National University of Singapore - NUS"

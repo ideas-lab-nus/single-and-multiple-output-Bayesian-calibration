@@ -17,7 +17,7 @@ To be added xx
 ```
 
 ## Key steps
-The following are the key steps to try the calibration process:
+The followings are the key steps to try the calibration process:
 
 1. Download Energyplus (Version 9.1.0) [Downlink](https://energyplus.net/downloads).
 

@@ -31,7 +31,7 @@ The followings are the key steps to try the calibration process:
 $ pip install -r requirements.txt
 ```
 
-### File structure
+## File structure
 ```
 To be added 
 ```
